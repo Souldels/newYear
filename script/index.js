@@ -5,7 +5,7 @@ for (i = 0; i < 50; i++) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-	const newYear = new Date("Jan 1 2023 00:00:00");
+	const newYear = new Date("Jan 1 2024 00:00:00");
 
 	const daysVal = document.querySelector(".days");
 	const hoursVal = document.querySelector(".hours");
